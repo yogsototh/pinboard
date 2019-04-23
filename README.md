@@ -1,3 +1,12 @@
+> This project has two homes.
+> It is ok to work in github, still, for a better decentralized web
+> please consider contributing (issues, PR, etc...) throught:
+>
+> https://gitlab.esy.fun/yogsototh/pinboard
+
+---
+
+
 # Pinboard [![Hackage](https://img.shields.io/hackage/v/pinboard.svg?style=flat)](https://hackage.haskell.org/package/pinboard) [![Build Status](https://travis-ci.org/jonschoning/pinboard.svg?branch=master)](https://travis-ci.org/jonschoning/pinboard)
 
 The Pinboard API is a way to interact programatically with
